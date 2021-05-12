@@ -1,4 +1,5 @@
 
+# 계산기 기본
 def add(a, b):
 	return a + b
 
