@@ -11,3 +11,7 @@ def multiply(a, b):
 
 def divide_new(a,b):
 	return a / b
+
+#신입띠 
+def say_hello():
+	print("hello")
